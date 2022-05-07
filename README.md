@@ -4,7 +4,7 @@
 Reference [CSDN - YOLOv5 Cat Detetion](https://blog.csdn.net/oJiWuXuan/article/details/107558286) I read this article in the evening to conduct this project 
 
 ## <div align="center">Dependency</div>
-[YOLOv5](https://github.com/ultralytics/yolov5)
+[YOLOv5](https://github.com/ultralytics/yolov5) &nbsp; 🌟 Awesome & Easy to use
 
 ## <div align="center">Environments</div>
 *OS：windows10
@@ -18,9 +18,9 @@ Reference [CSDN - YOLOv5 Cat Detetion](https://blog.csdn.net/oJiWuXuan/article/d
 <details open>
 <summary>Environment Setup</summary>
     
-* Anaconda
-* [PyTorch](https://pytorch.org/get-started/previous-versions/)
-* [YOLOv5](https://github.com/ultralytics/yolov5)
+* [Anaconda](https://www.anaconda.com/)&nbsp; ☘️
+* [PyTorch](https://pytorch.org/get-started/previous-versions/) &nbsp;  🚀
+* [YOLOv5](https://github.com/ultralytics/yolov5) &nbsp; 🌟
     
 ```bash
 # Conda Environment----------------------------------
@@ -59,7 +59,7 @@ pip install pycocotools
 <summary>Retrain - model (if needed)</summary>
     
 * Put all required training pics under .\data\images (recommened more than 50 pics)
-* Put tag data under .\data\Annotations   I use [this software](http://www.jinglingbiaozhu.com/)
+* Put tag data under .\data\Annotations  &nbsp; 🚀 RECOMMENDED [this software](http://www.jinglingbiaozhu.com/)
  
 ```bash
   # Divided pics as training,test and etc.----------------------------------------
