@@ -49,9 +49,10 @@ pip install pycocotools
 <details open>
 <summary>Detetion (using a well trained model)</summary>
   Store pics under .\data\final
+ 
 ```bash
   python detect.py --weights ./runs/train/exp3/weights/best.pt --img 640 --source ./data/final/ --save-txt --save-conf
-```  
+```
 </details>
 <details open>
 <summary>Retrain - model (if needed)</summary>
@@ -64,5 +65,5 @@ pip install pycocotools
   python voc_label.py
   # Start training;  epochs>=100 ----------------------------------------
   python train.py --img 640 --batch 50 --epochs 100 --data nft.yaml --weights yolov5s.pt
-```  
+```
 </details>
