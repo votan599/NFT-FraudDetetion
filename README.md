@@ -3,7 +3,8 @@
    <a align="left" href="https://x2y2.io" target="_blank">
    <img width="850" src="https://github.com/votan599/NFT-FraudDetetion/blob/master/Title.jpg"></a>
 </p>
-<p>
+<p></div>
+
 Recently, there are lots of fraud collections get listed on NFT marketplace, scammers put a blue checkmark on the project profile image to try to trick people into believing the project was verified.
 [Scammers create fake Louis Vuitton NFT project] (https://web3isgoinggreat.com/single/scammers-create-fake-louis-vuitton-nft-project-)
     
@@ -86,16 +87,13 @@ pip install pycocotools
 ## <div align="center">Contact</div>
     
     <div align="center">
-    <img width="3%" />
+    
     <a href="https://twitter.com/Votan599/">
         <img src="https://github.com/votan599/NFT-FraudDetetion/blob/master/logo-social-twitter.png" width="3%"/>
     </a>
-    </a>
-    
-        <img width="3%" />
+    <img width="3%" />
     <a href="https://dune.com/votan/X2Y2-NFT-Marketplace">
         <img src="https://github.com/votan599/NFT-FraudDetetion/blob/master/logo-social-dune.png" width="3%"/>
-    </a>
     </a>
 </div>
 
