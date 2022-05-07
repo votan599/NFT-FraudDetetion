@@ -86,14 +86,13 @@ pip install pycocotools
     
 ## <div align="center">Contact</div>
     
-    <div align="center">
-    
-    <a href="https://twitter.com/Votan599/">
-        <img src="https://github.com/votan599/NFT-FraudDetetion/blob/master/logo-social-twitter.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://dune.com/votan/X2Y2-NFT-Marketplace">
-        <img src="https://github.com/votan599/NFT-FraudDetetion/blob/master/logo-social-dune.png" width="3%"/>
-    </a>
+<div align="center">    
+   <a href="https://twitter.com/Votan599/">
+       <img src="https://github.com/votan599/NFT-FraudDetetion/blob/master/logo-social-twitter.png" width="3%"/>
+   </a>
+   <img width="3%" />
+        <a href="https://dune.com/votan/X2Y2-NFT-Marketplace">
+   <img src="https://github.com/votan599/NFT-FraudDetetion/blob/master/logo-social-dune.png" width="3%"/>
+   </a>
 </div>
 
