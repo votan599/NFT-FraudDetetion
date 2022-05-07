@@ -7,19 +7,19 @@ Reference [CSDN - YOLOv5 Cat Detetion](https://blog.csdn.net/oJiWuXuan/article/d
 [YOLOv5](https://github.com/ultralytics/yolov5)
 
 ## <div align="center">Environments</div>
-OS：windows10
-IDE：Pycharm
-python version：anaconda Pyhon3.8
-pytorch version: torch 1.10.1  # PyTorch 1.11.0 has a issue can't display the result, 
-cuda version: 11.3
-GPU: NVIDIA Geforce GTX 960 (a 4 years ago hardware)
+*OS：windows10
+*IDE：Pycharm
+*python version：anaconda Pyhon3.8
+*pytorch version: torch 1.10.1  # PyTorch 1.11.0 has a issue can't display the result, 
+*cuda version: 11.3
+*GPU: NVIDIA Geforce GTX 960 (a 4 years ago hardware)
 
 ## <div align="center">Quick Start Examples</div>
 <details open>
 <summary>Environment Setup</summary>
-  * Anaconda
-  * [PyTorch](https://pytorch.org/get-started/previous-versions/)
-  * [YOLOv5](https://github.com/ultralytics/yolov5)
+* Anaconda
+* [PyTorch](https://pytorch.org/get-started/previous-versions/)
+* [YOLOv5](https://github.com/ultralytics/yolov5)
     
 ```bash
 # Conda Environment----------------------------------
@@ -56,8 +56,9 @@ pip install pycocotools
 </details>
 <details open>
 <summary>Retrain - model (if needed)</summary>
-  * Put all required training pics under .\data\images (recommened more than 50 pics)
-  * Put tag data under .\data\Annotations   I use [this software](http://www.jinglingbiaozhu.com/)
+* Put all required training pics under .\data\images (recommened more than 50 pics)
+* Put tag data under .\data\Annotations   I use [this software](http://www.jinglingbiaozhu.com/)
+ 
 ```bash
   # Divided pics as training,test and etc.----------------------------------------
   python makeTxt.py
@@ -66,4 +67,5 @@ pip install pycocotools
   # Start training;  epochs>=100 ----------------------------------------
   python train.py --img 640 --batch 50 --epochs 100 --data nft.yaml --weights yolov5s.pt
 ```
+ 
 </details>
