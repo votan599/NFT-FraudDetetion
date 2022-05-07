@@ -23,7 +23,7 @@ Refer [CSDN - YOLOv5 Cat Detetion](https://blog.csdn.net/oJiWuXuan/article/detai
 * OS：windows10
 * IDE：Pycharm
 * python version：anaconda Pyhon3.8
-* pytorch version: torch 1.10.1  # PyTorch 1.11.0 has a issue can't display the result, 
+* pytorch version: torch 1.10.1  (PyTorch 1.11.0 has a issue can't display the result)
 * cuda version: 11.3
 * GPU: NVIDIA Geforce GTX 960 (a 4 years ago hardware)
 
