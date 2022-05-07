@@ -17,6 +17,7 @@ Reference [CSDN - YOLOv5 Cat Detetion](https://blog.csdn.net/oJiWuXuan/article/d
 ## <div align="center">Quick Start Examples</div>
 <details open>
 <summary>Environment Setup</summary>
+    
 * Anaconda
 * [PyTorch](https://pytorch.org/get-started/previous-versions/)
 * [YOLOv5](https://github.com/ultralytics/yolov5)
@@ -56,6 +57,7 @@ pip install pycocotools
 </details>
 <details open>
 <summary>Retrain - model (if needed)</summary>
+    
 * Put all required training pics under .\data\images (recommened more than 50 pics)
 * Put tag data under .\data\Annotations   I use [this software](http://www.jinglingbiaozhu.com/)
  
