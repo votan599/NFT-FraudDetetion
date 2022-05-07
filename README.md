@@ -1,7 +1,18 @@
-
+<div align="center">
+<p>
+   <a align="left" href="https://x2y2.io" target="_blank">
+   <img width="850" src="https://github.com/votan599/NFT-FraudDetetion/blob/master/Title.jpg"></a>
+</p>
+<p>
+Recently, there are lots of fraud collections get listed on NFT marketplace, scammers put a blue checkmark on the project profile image to try to trick people into believing the project was verified.
+[Scammers create fake Louis Vuitton NFT project] (https://web3isgoinggreat.com/single/scammers-create-fake-louis-vuitton-nft-project-)
+    
+[X2Y2](https://x2y2.io) 🚀 as the most user friendly NFT marketplace sponsor a bonus to solve this problem, as recently X2Y2 community members also reported this issues to the project team.
+</p>
+    
 ## <div align="center">ReadMe</div>
 
-Reference [CSDN - YOLOv5 Cat Detetion](https://blog.csdn.net/oJiWuXuan/article/details/107558286) I read this article in the evening to conduct this project 
+Refer [CSDN - YOLOv5 Cat Detetion](https://blog.csdn.net/oJiWuXuan/article/details/107558286) I read this article in the evening to conduct this project 
 
 ## <div align="center">Dependency</div>
 [YOLOv5](https://github.com/ultralytics/yolov5) &nbsp; 🌟 Awesome & Easy to use
@@ -71,3 +82,20 @@ pip install pycocotools
 ```
  
 </details>
+    
+## <div align="center">Contact</div>
+    
+    <div align="center">
+    <img width="3%" />
+    <a href="https://twitter.com/Votan599/">
+        <img src="https://github.com/votan599/NFT-FraudDetetion/blob/master/logo-social-twitter.png" width="3%"/>
+    </a>
+    </a>
+    
+        <img width="3%" />
+    <a href="https://dune.com/votan/X2Y2-NFT-Marketplace">
+        <img src="https://github.com/votan599/NFT-FraudDetetion/blob/master/logo-social-dune.png" width="3%"/>
+    </a>
+    </a>
+</div>
+
