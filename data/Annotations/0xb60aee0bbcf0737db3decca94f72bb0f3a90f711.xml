@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>fraud</folder>
+<filename>0xb60aee0bbcf0737db3decca94f72bb0f3a90f711.jpg</filename>
+<path>E:\AI\data\fraud\0xb60aee0bbcf0737db3decca94f72bb0f3a90f711.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>120</width>
+    <height>120</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>fraud</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>70</xmin>
+        <ymin>74</ymin>
+        <xmax>106</xmax>
+        <ymax>110</ymax>
+    </bndbox>
+</object>
+</annotation>
